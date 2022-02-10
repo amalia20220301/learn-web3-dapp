@@ -67,3 +67,4 @@ subgraphs/punks
 # docker
 docker/data
 docker/brew
+.idea/
